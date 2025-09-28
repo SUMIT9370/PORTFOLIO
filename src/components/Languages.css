@@ -1,0 +1,32 @@
+.languages {
+  padding: 5rem 0;
+}
+
+.languages-list {
+  list-style: none;
+  margin: 2rem 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+.language-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.25rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.language-name {
+  font-weight: 600;
+}
+
+.language-level {
+  color: var(--text-secondary);
+}
+
+
