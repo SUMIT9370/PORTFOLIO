@@ -8,9 +8,9 @@ const Home = () => {
           <div className="home-text">
             <p className="greeting">HELLO!</p>
             <h1 className="home-title">
-              I'm <span className="accent">Sumit</span> <span className="accent">Patil</span>
+              I'm <span className="accent">SUMit</span> <span className="accent">Patil</span>
             </h1>
-            <h2 className="home-subtitle">Fullstack Web Developer | AIML Enthusiast</h2>
+            <h2 className="home-subtitle">Fullstack | AIML | DEOVPS</h2>
             <p className="home-quote">“I am thankful to all those who SAID NO, Because of them, I DID IT MYSELF.”</p>
             <div className="home-buttons">
               <a href="#contact" className="btn btn-primary">HIRE ME</a>

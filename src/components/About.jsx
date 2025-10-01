@@ -4,7 +4,7 @@ const About = () => {
   return (
     <section id="about" className="about">
       <div className="container">
-        <h2 className="section-title" data-bg="About">About Me</h2>
+        <h2 className="section-title" data-bg="About">Who Am I</h2>
         <p className="section-subtitle">
           Hi everyone, I am SUMit Patil, an aspiring engineering student diving into the world of
           Artificial Intelligence and Machine Learning. I’m passionate about learning new things
